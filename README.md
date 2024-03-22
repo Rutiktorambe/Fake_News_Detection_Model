@@ -1,5 +1,7 @@
 #  Fake News Classification WebApp using Python
-https://github.com/Rutiktorambe/Fake_News_Detection_Model/blob/Main/Model-Webpage-Ui.png
+
+![Model Webpage UI](https://raw.githubusercontent.com/Rutiktorambe/Fake_News_Detection_Model/Main/Model-Webpage-Ui.png)
+
 ## How to Run:-
 
 - Clone Repository ```git clone https://github.com/Rutiktorambe/Fake_News_Detection_Model.git```.
