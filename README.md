@@ -1,13 +1,13 @@
 #  Fake News Classification WebApp using Python
 
-## Usage:-
+## How to Run:-
 
 - Clone Repository ```git clone https://github.com/Rutiktorambe/Fake_News_Detection_Model.git```.
 - Change directory ``` cd Fake_News_Detection_Model ```.
 - Install all  packages and dependencies  ```pip install -r requirements.txt```
-- Run `Fake_News_Det.py`, go to the `http://127.0.0.1:5000/`
-- If you want to build your model with the some changes, you can check the `Fake_News_Detection.ipynb`.
-- You can check web app is working fine. Sometimes predictions may be wrong.
+- Run `Fake_News_Detection.py`, go to the `http://127.0.0.1:5000/`
+- If you want to build your model or modify the model, you can check and modify the `Fake_News_Detection.ipynb`.
+- You can check web app is working fine. .
 
 
 ## Note
